@@ -12,30 +12,30 @@ Expected output is:
 
 To run the program, execute the following command with arguments:
 
-1) Volleyball Dataset
+1) **Volleyball Dataset**
 python solution.py datasets/volleyball.csv datasets/volleyball_test.csv config/id3.cfg
 
-Expected output: <br/>
+**Expected output:** <br/>
 0:weather, 1:wind, 1:humidity <br/>
 yes yes yes yes no yes yes yes no yes yes no yes no no yes yes yes yes <br/>
 0.57895 <br/>
 4 7 <br/>
 1 7 <br/>
 
-2) Logic Formula Dataset
+2) **Logic Formula Dataset**
 python solution.py datasets/logic_small.csv datasets/logic_small_test.csv config/id3.cfg
 
-Expected output: <br/>
+**Expected output:** <br/>
 0:A, 1:C <br/>
 False False True False False True <br/>
 0.50000 <br/>
 3 2 <br/>
 1 0 <br/>
 
-3) Titanic Dataset
+3) **Titanic Dataset**
 python solution.py datasets/titanic_train_categorical.csv datasets/titanic_test_categorical.csv config/id3.cfg
 
-Expected output: <br/>
+**Expected output:** <br/>
 0:sex, 1:passenger_class, 2:age, 3:fare, 4:cabin_letter, 4:cabin_letter,
 4:cabin_letter, 3:fare, 4:cabin_letter, 4:cabin_letter,
 4:cabin_letter, 3:fare, 4:cabin_letter, 4:cabin_letter, 3:fare,

@@ -4,7 +4,7 @@ Decision Tree model implemented from scratch.
 This model was a part of the Bachelor's assignment from the course Introduction to Artificial Intelligence.
 It uses decision tree model with the ID3 algorithm.
 <br/>
-Expected output is: 
+Expected output is in the following form: 
 1) the decision tree graph structure
 2) classification labels on the test set
 3) accuracy

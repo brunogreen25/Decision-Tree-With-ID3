@@ -1,4 +1,4 @@
-# DecisionTreeWithID3
+# Decision-Tree-With-ID3
 Decision Tree model implemented from scratch.
 <br/>
 This model was a part of the Bachelor's assignment from the course Introduction to Artificial Intelligence.
